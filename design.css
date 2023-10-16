@@ -9,8 +9,10 @@ body{
     background-color: #cfdef1;
 }
 h3{
+    position: absolute;
     display: inline;
-    
+    top: 30px;
+    left: 120px;
 }
 
 button {
@@ -29,6 +31,11 @@ button {
 #lf { padding-top: 50px;
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;}
+    .dr{
+        position: absolute;
+        left: 650px;
+        top: 20px;
+    }
 #isg { left : 10px; top : 10px; 
     display: inline;}
 
