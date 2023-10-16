@@ -5,6 +5,36 @@
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+body{
+    background-color: #cfdef1;
+}
+h3{
+    display: inline;
+    
+}
+
+button {
+    background-color: #4170f3;
+    padding: 20px;
+    width: 100px;
+    color: #ffffff;
+    text-align: center;
+    border: 2px double #cccccc; 
+    border-radius: 10px;
+    display: inline;
+    margin: 10px;
+  
+    
+  }
+#lf { padding-top: 50px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;}
+#isg { left : 10px; top : 10px; 
+    display: inline;}
+
+.institut {
+    display: inline;
+}
 .para{
     line-height: 20px;
 }
@@ -16,8 +46,11 @@ div{
     margin-bottom: 30px;
     margin-top: 30px;
 }
+.dr{
+    text-align: right;
+}
  .titre{
-    text-align: center;
+    text-align: right;
     
 }
 h4{
